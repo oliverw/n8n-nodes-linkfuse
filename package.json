@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-linkfuse",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node package for n8n to interact with the Linkfuse API",
   "license": "MIT",
   "homepage": "https://www.linkfuse.net",
