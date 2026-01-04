@@ -86,4 +86,4 @@ This Node has been tested successfully with n8n 1.115.3
 
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 * [Linkfuse API Playground](https://app.linkfuse.net/scalar/v1)
-* [NPM Package](https://www.npmjs.com/package/n8n-nodes-fltwo)
+* [NPM Package](https://www.npmjs.com/package/n8n-nodes-linkfuse)
