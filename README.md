@@ -1,4 +1,4 @@
-# n8n-nodes-fltwo
+# n8n-nodes-linkfuse
 
 This is an n8n community node. It lets you use Linkfuse in your n8n workflows.
 
