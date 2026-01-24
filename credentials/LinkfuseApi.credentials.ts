@@ -36,6 +36,9 @@ export class LinkfuseApi implements ICredentialType {
 		request: {
 			baseURL: 'https://app.linkfuse.net/api/v1',
 			url: '/links',
+			headers: {
+				'X-API-CLIENT': 'n8n',
+			},
 		},
 	};
 }

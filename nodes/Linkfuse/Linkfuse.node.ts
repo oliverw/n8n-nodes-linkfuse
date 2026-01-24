@@ -22,6 +22,7 @@ export class Linkfuse implements INodeType {
 			headers: {
 				Accept: 'application/json',
 				'Content-Type': 'application/json',
+				'X-API-CLIENT': 'n8n',
 			},
 		},
 		properties: [
